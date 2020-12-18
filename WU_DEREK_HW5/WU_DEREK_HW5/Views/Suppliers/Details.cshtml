@@ -1,0 +1,50 @@
+﻿@model WU_DEREK_HW5.Models.Supplier
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Supplier</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SupplierName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SupplierName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+    </dl>
+</div>
+<div>
+    <h5>Products for this Supplier</h5>
+    <table class="table table-bordered">
+        <tr>
+            <th>Products</th>
+        </tr>
+        @foreach (ProductSupplier cd in Model.ProductSuppliers)
+        {
+            <tr>
+                <td>@cd.Product.Name</td>
+            </tr>
+        }
+    </table>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.SupplierID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,78 @@
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.exe
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.deps.json
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.runtimeconfig.json
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.runtimeconfig.dev.json
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.dll
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.pdb
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.csprojAssemblyReference.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.AssemblyInfoInputs.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.AssemblyInfo.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.csproj.CoreCompileInputs.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorTargetAssemblyInfo.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\staticwebassets\WU_DEREK_HW0.StaticWebAssets.Manifest.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\staticwebassets\WU_DEREK_HW0.StaticWebAssets.xml
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.dll
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.pdb
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.genruntimeconfig.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.Views.dll
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.Views.pdb
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorAssemblyInfo.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorAssemblyInfo.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.TagHelpers.input.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.TagHelpers.output.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorCoreGenerate.cache
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorTargetAssemblyInfo.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.Views.pdb
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.csproj.CopyComplete
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListResponses.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.exe
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.deps.json
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.runtimeconfig.json
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.runtimeconfig.dev.json
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.dll
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.pdb
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.Views.dll
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\bin\Debug\netcoreapp3.1\WU_DEREK_HW0.Views.pdb
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.csprojAssemblyReference.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.AssemblyInfoInputs.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.AssemblyInfo.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.csproj.CoreCompileInputs.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorAssemblyInfo.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorAssemblyInfo.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.TagHelpers.input.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.TagHelpers.output.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorCoreGenerate.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListResponses.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorTargetAssemblyInfo.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.RazorTargetAssemblyInfo.cs
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.Views.pdb
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\staticwebassets\WU_DEREK_HW0.StaticWebAssets.Manifest.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\staticwebassets\WU_DEREK_HW0.StaticWebAssets.xml
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.dll
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.pdb
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.genruntimeconfig.cache
+C:\Users\derek\Documents\GitHub\MIS 333K\WU_DEREK_HW0\WU_DEREK_HW0\obj\Debug\netcoreapp3.1\WU_DEREK_HW0.csproj.CopyComplete

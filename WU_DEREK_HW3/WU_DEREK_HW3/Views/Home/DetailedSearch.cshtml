@@ -1,0 +1,62 @@
+﻿@model WU_DEREK_HW3.Models.SearchViewModel
+
+@{
+    ViewData["Title"] = "DetailedSearch";
+}
+
+<h1>DetailedSearch</h1>
+
+<h4>SearchViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DisplaySearchResults">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Category" class="control-label"></label>
+                @Html.DropDownListFor(model => model.Category, (SelectList)ViewBag.AllCategories, new { @class = "form-control" })
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalaryAmount" class="control-label"></label>
+                <input asp-for="SalaryAmount" class="form-control" />
+                <span asp-validation-for="SalaryAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalaryComparison" class="control-label"></label>
+                <br />
+                <input type="radio" class="radio" asp-for="SalaryComparison" value="@SalaryComparison.greaterThan" /> Greater Than
+                <br />
+                <input type="radio" class="radio" asp-for="SalaryComparison" value="@SalaryComparison.lessThan" /> Less Than
+                <br />
+                <span asp-validation-for="SalaryComparison" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PostedDate" class="control-label"></label>
+                <input asp-for="PostedDate" class="form-control" />
+                <span asp-validation-for="PostedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,11 @@
+﻿body {
+    background: linear-gradient(250deg,#2780e333 50%,#FFF 50%);
+}
+
+.profileImgBorder {
+    border: 20px solid;
+}
+
+.profileImg:hover {
+    filter: grayscale(100%);
+}

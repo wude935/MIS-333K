@@ -1,0 +1,85 @@
+﻿.jumbotron {
+    background-color: #2780e333;
+    padding: 3rem 20%;
+}
+
+.univeristyImg {
+    max-height: 110px;
+}
+
+.section {
+    padding: 6rem 20%;
+}
+
+.section .col-2 {
+    padding-right: 25px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.hobby-img {
+    height: 100px;
+    object-fit: contain;
+    background: radial-gradient(#007bff 0%, transparent 60%);
+} 
+
+/*skills bar styling*/
+.skillbar {
+    position: relative;
+    display: block;
+    height: 35px;
+    width: 100%;
+    background-color: #ddd;
+
+}
+
+.skills {
+    text-align: right; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    padding-right: 10px;
+    color: white; 
+}
+
+.skillbar-bar {
+    height: 35px;
+    width: 0%;
+}
+
+.skill-bar-percent {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    font-size: 11px;
+    height: 35px;
+    line-height: 35px;
+}
+
+.skillbar .html {
+    background-color: #4CAF50;
+}
+
+.skillbar .css {
+    background-color: #2196F3;
+}
+
+.skillbar .js {
+    background-color: #f44336;
+}
+
+.skillbar .sql {
+    background-color: #808080;
+}
+
+@media only screen and (max-width: 500px) {
+    .jumbotron {
+        padding: 3rem 5%;
+    }
+
+    .section {
+        padding: 6rem 5%;
+    }
+}

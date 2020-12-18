@@ -1,0 +1,78 @@
+@model WU_DEREK_HW2.Models.WalkupOrder
+
+@{
+    ViewData["Title"] = "Walkup Totals";
+}
+
+<h1>Walkup Totals</h1>
+
+<div>
+    <h4>Walkup Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CustomerType)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CustomerType)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CustomerName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumberOfHardbacks)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumberOfHardbacks)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumberOfPaperbacks)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumberOfPaperbacks)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TotalItems)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TotalItems)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.HardbackSubtotal)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.HardbackSubtotal)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PaperbackSubtotal)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PaperbackSubtotal)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Subtotal)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Subtotal)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SalesTax)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SalesTax)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to Home</a> |
+    <a asp-action="CheckoutWalkup">New Order</a>
+</div>
